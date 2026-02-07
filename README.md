@@ -1,65 +1,104 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+# 👋 Hi, I'm Chaitanya Patil
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/developer-chaitanya-patil/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+🚀 **Python Developer | RPA Automation Engineer | AWS | Data Automation**  
+📍 Bangalore, India | 💼 3 Years Experience (TCS)
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ChaitanyaPatil&style=flat-square&color=blue" alt=""/>
-</div>
-
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+I am a **Python Developer and RPA Automation Engineer** with 3 years of experience building **scalable Python-based automation solutions** for enterprise systems. My expertise lies in **file processing, data validation, ETL pipelines, and AWS-based automation**, with a strong focus on reducing manual effort and improving data accuracy.
 
 ---
 
-### :man_technologist: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I'm currently thriving as a Software Engineer, shaping innovative solutions and contributing to the world of technology.
+## 🧑‍💻 Professional Summary
 
-- :seedling: Passionate about exploring the ever-evolving landscape of technology, always seeking new opportunities for learning and growth.
-
-- :zap: During my free time, I channel my enthusiasm into tackling challenges on Leetcode and working on exciting projects, adding both depth and breadth to my skills.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/developer-chaitanya-patil/)
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="40" height="40"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/5e956ea0943b5a05092e94d7376582051e61fe84af215ad6e35334a2d61b658a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+- 🔹 3 years of experience in **Python development and RPA automation**
+- 🔹 Strong expertise in **Pandas, NumPy, and large-scale CSV/Excel processing**
+- 🔹 Experience designing **end-to-end automation solutions** aligned with business requirements
+- 🔹 Hands-on with **AWS (Lambda, S3)** for serverless automation
+- 🔹 Proven track record of **performance optimization and efficiency improvement**
+- 🔹 Actively upskilling in **AI & Machine Learning**
 
 ---
 
-### :fire: My Stats :
+## 🏢 Experience
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChaitantyaPatil&theme=dark)](https://git.io/streak-stats) 
+### **Python Developer — Tata Consultancy Services (TCS)**  
+📍 Bangalore | 🗓 Jun 2023 – Present
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitantyaPatil&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+- Led **requirement gathering, analysis, design, and estimation** for automation projects
+- Worked across the full **SDLC (Design, Development, Testing, Deployment)**
+- Developed and maintained **Python-based data processing systems**
+- Automated large-scale **CSV and Excel workflows** using Pandas and NumPy
+- Reduced development time by **35%** by optimizing reusable Python functions
+- Built **RPA automations** that significantly reduced manual file-processing effort
+- Implemented **data validation rules** to detect missing, duplicate, and inconsistent records
+- Processed **100,000+ records per month** with **99.9% data accuracy**
+- Used **SQL** to query and optimize relational databases for ETL pipelines
+- Implemented **logging, exception handling, and audit tracking**
+- Deployed automation jobs using **AWS Lambda** for serverless execution
+- Followed **Test-Driven Development** using Python unit testing frameworks
+- Collaborated with business stakeholders to identify and deliver automation opportunities
+
 ---
 
-### :stuck_out_tongue:
+## 🛠️ Technical Skills
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+### 💻 Programming & Automation
+- Python  
+- RPA Automation  
+- Pandas, NumPy  
+- File Handling & Excel Automation  
+
+### 🗄️ Data & ETL
+- Data Cleaning & Validation  
+- ETL Pipelines  
+- SQL  
+
+### ☁️ Cloud & DevOps
+- AWS (Lambda, S3)  
+- CI/CD Pipelines  
+
+### 🤖 AI & ML (Learning)
+- Artificial Intelligence  
+- Machine Learning  
+- Regression Models  
+
+### 🧰 Tools & Platforms
+- Robocorp  
+- Sema4AI  
+- Linux  
+- Git  
+
+### 🌐 Web & Others
+- REST APIs  
+- HTML, CSS  
+- OOPS, Data Structures  
+- Unit Testing  
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology — Computer Science Engineering**  
+Shivaji University, Kolhapur  
+🎓 CGPA: **8.24 / 10**  
+
+---
+
+## 📜 Certifications
+
+- 🏅 **AWS Cloud Practitioner Certification (2023)**
+
+---
+
+## 📈 Current Focus
+
+- Strengthening **AI & ML fundamentals**
+- Building **intelligent automation use cases**
+- Writing **clean, testable, production-grade Python code**
+- Expanding cloud-native automation skills
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **Chaitanyapatil4321@gmail.com**
+- 💼 LinkedIn: [developer-chaitanya-patil](https://www.linkedin.com/in/developer-chaitanya-patil/)
