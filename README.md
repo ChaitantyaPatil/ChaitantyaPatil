@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Chaitanya Patil
 
-🚀 **Python Developer | RPA Automation Engineer | AWS | Data Automation**  
+🚀 **Python Developer**  
 📍 Bangalore, India | 💼 3 Years Experience (TCS)
 
-I am a **Python Developer and RPA Automation Engineer** with 3 years of experience building **scalable Python-based automation solutions** for enterprise systems. My expertise lies in **file processing, data validation, ETL pipelines, and AWS-based automation**, with a strong focus on reducing manual effort and improving data accuracy.
+I am a **Python Developer** with 3 years of experience building **scalable Python-based automation solutions** for enterprise systems. My expertise lies in **file processing, data validation, ETL pipelines, and AWS-based automation**, with a strong focus on reducing manual effort and improving data accuracy.
 
 ---
 
 ## 🧑‍💻 Professional Summary
 
-- 🔹 3 years of experience in **Python development and RPA automation**
+- 🔹 3 years of experience in **Python development and automation**
 - 🔹 Strong expertise in **Pandas, NumPy, and large-scale CSV/Excel processing**
 - 🔹 Experience designing **end-to-end automation solutions** aligned with business requirements
 - 🔹 Hands-on with **AWS (Lambda, S3)** for serverless automation
